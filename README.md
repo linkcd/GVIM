@@ -3,5 +3,5 @@
 * Install git
 * Install vundule in user folder C:\Users\<username>\vimfiles
 * Install ctag in <myPathABC> (extract)
-Modify _vimrc in the step 1, also makesure the <myPathABC> is correct
-Run PluginInstall 
+* Modify _vimrc in the step 1, also makesure the <myPathABC> is correct
+* Run PluginInstall 
